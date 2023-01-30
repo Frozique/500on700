@@ -100,6 +100,9 @@ h1 {
 .header .container .nav__list .list-item:hover {
   color: #75FF72;
 }
+.header .container .nav__list .list-item ul {
+  display: none;
+}
 .header .dropdown__list {
   display: none;
   flex-wrap: wrap;
